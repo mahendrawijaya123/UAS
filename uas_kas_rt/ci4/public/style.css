@@ -60,7 +60,7 @@ header a {
 
 .navMenu {
     display: block;
-    background-color: #09937e;
+    background-color: palevioletred;
     padding-left: 10px;
     text-decoration: none;
 }
@@ -77,15 +77,15 @@ header a {
 
 .navMenu a.active,
 .navMenu a:hover {
-    background-color: #78e61e;
+    background-color: green;
 }
 
 
 nav.subMenu a{
     text-decoration: none;
-    color: #222322;
+    color: white;
     margin-right: 20px;
-    background-color: rgb(128, 243, 243);
+    background-color: green;
     padding: 5px;
     border-radius: 3px;
 }
@@ -245,12 +245,12 @@ form p > label {
     width: 70px;
 }
 form input[type="text"], form textarea {
-    border: 1px solid #197a43;
+    border: 1px solid palevioletred;
 }
 form input[type="submit"] {
-    border: 1px solid #197a43; 
-    background-color: #197a43;
-    color: #ffffff;
+    border: 1px solid palevioletred; 
+    background-color: palevioletred;
+    color: black;
     font-weight: bold;
     padding: 5px 15px;
 }
@@ -287,7 +287,7 @@ form.form-search {
 
 
 table.table th {
-    background-color: #09937e;
+    background-color: palevioletred;
     color: white;
     padding: 10px;
     height: 20px;
