@@ -4,5 +4,5 @@
 ## kelas : TI.20.A.2
 
 # REVIEW
-link youtube :
+link riveiw youtube :https://youtu.be/AavXz4Yp4L0
 link hosting :
